@@ -13,7 +13,7 @@ font-family: 'Unbounded', cursive;
 
 body {
   font-family: "Open Sans", sans-serif;
-  background: lightgreen;
+  background: #4d885b;
   color: white
 }
 
@@ -28,7 +28,7 @@ body {
 .left-column,
 .right-column {
   width: 50%;
-}
+color: antiquewhite;}
 
 .left-column {
   padding-bottom: 50px;
