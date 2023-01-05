@@ -28,7 +28,8 @@ body {
 .left-column,
 .right-column {
   width: 50%;
-color: antiquewhite;}
+  color: antiquewhite;
+}
 
 .left-column {
   padding-bottom: 50px;
@@ -50,6 +51,7 @@ color: antiquewhite;}
   object-fit: cover;
   object-position: center;
 }
-p{
-    text-align: justify;
+
+p {
+  text-align: justify;
 }
